@@ -108,7 +108,3 @@ Accurate rainfall prediction is essential for irrigation planning, flood mitigat
 B.Tech, Electrical Engineering  
 IIT Palakkad  
 
----
-
-## 📄 License
-This project is intended for academic and learning purposes.
